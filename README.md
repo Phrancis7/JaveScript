@@ -1,2 +1,2 @@
-# JaveScript
+# javascript-challenge
 H/W
